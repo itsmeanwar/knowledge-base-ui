@@ -44,12 +44,12 @@ export default function Navbar() {
       <Bell className="w-5 h-5" />
     </button>
 
-    <button className="w-8 h-8 flex items-center justify-center rounded-full bg-[var(--color-primary)] text-[var(--color-secondary)] font-bold shadow">
+    <button className="w-8 h-8 flex items-center justify-center rounded-full bg-[#818CF8] text-[var(--color-secondary)] font-bold shadow">
       GK
     </button>
   </div>
 
-  {/* ✅ NEW → SEARCH FOR SMALL SCREENS */}
+  {/*  NEW → SEARCH FOR SMALL SCREENS */}
   <div className="w-full mt-3 md:hidden">
     <div className="relative">
       <Search className="absolute w-4 h-4 left-3 top-1/2 -translate-y-1/2 text-gray-400" />
