@@ -33,11 +33,11 @@ It replicates a Figma-based UI with focus on layout accuracy, component-based st
 
 ## Tech Stack
 
-* React (Vite)
-* JavaScript (ES6+)
-* Tailwind CSS
-* React Toastify
-* Lucide React Icons
+- React (Vite)
+- JavaScript (ES6+)
+- Tailwind CSS
+- React Toastify
+- Lucide React Icons
 
 ---
 
