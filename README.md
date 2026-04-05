@@ -7,6 +7,17 @@ It replicates a Figma-based UI with focus on layout accuracy, component-based st
 
 ---
 
+## 📸 Screenshots
+
+### Home Screen
+<img width="1076" height="645" alt="img1" src="https://github.com/user-attachments/assets/e92ad5b3-629d-43e9-895a-0935ea435be8" />
+
+
+### Modal
+<img width="1360" height="643" alt="img2" src="https://github.com/user-attachments/assets/fce5894f-4978-4a41-a336-610ead311fad" />
+
+---
+
 ## Features
 
 * Responsive dashboard layout with sidebar and navbar
