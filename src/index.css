@@ -1,0 +1,15 @@
+/* Google Font Import (add this at the top) */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import "tailwindcss";
+/* import tailwind-scrollbar plugin */
+@plugin "tailwind-scrollbar";
+
+:root {
+  --color-primary: #4F46E5;
+  --color-secondary: #1E1B4B;
+}
+
+/* Apply Inter globally */
+body {
+  font-family: "Inter", sans-serif;
+}
