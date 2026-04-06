@@ -131,7 +131,6 @@ npm run dev
 
   * Primary: `#4F46E5`
   * Secondary: `#1E1B4B`
-* Consistent spacing, typography, and UI alignment followed
 
 ---
 
